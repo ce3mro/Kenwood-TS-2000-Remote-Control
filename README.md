@@ -24,7 +24,7 @@ A standalone **Windows Desktop Application and Web Remote Control (PWA)** for th
 ### 📥 Installation & Setup
 
 1. Download `Kenwood_TS2000_Remote_v4.10_Setup.exe` from the Releases page.
-2. Run the installer and launch **Kenwood TS-2000 Remote** from your Start Menu or Desktop.
+2. Run the installer and launch **Kenwood TS-2000 Remote** from your Start Menu or Desktop whith administrator mode.
 3. In the application menu, go to **Archivo > Configuración de Puertos y Audio...**:
    * Set your **CAT COM Port** and Baud Rate (`57600` recommended).
    * Select your RX/TX Sound Card devices for Web Audio Remote.
@@ -52,7 +52,7 @@ Aplicación independiente para **Windows y Control Remoto Web (PWA)** para el tr
 ### 📥 Instalación y Configuración
 
 1. Descarga `Kenwood_TS2000_Remote_v4.10_Setup.exe` desde la sección de publicaciones (Releases).
-2. Ejecuta el instalador e inicia **Kenwood TS-2000 Remote** desde el Menú Inicio o el Escritorio.
+2. Ejecuta el instalador e inicia **Kenwood TS-2000 Remote** desde el Menú Inicio o el Escritorio como administrador.
 3. En el menú de la aplicación, ve a **Archivo > Configuración de Puertos y Audio...**:
    * Selecciona el **Puerto COM CAT** y la velocidad (`57600` recomendada).
    * Elige tus dispositivos de tarjeta de sonido RX/TX para el audio remoto.
